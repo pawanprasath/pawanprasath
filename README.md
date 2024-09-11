@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Enhancing fine grained animal species identification using vision transformers**
 
-- 🌱 I’m currently learning **PowerBi, Tableu**
+- 🌱 I’m currently learning **PowerBi, Tableu, Artificial Intelligence**
 
 - 📫 How to reach me **pawanprasath6@gmail.com**
 
